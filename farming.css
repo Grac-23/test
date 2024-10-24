@@ -1,0 +1,61 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.pic{
+    height: 80vh;
+}
+.text{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    
+}
+.carl{
+    top:40%;
+}
+.hi{
+    /* font-size: 20px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 80px;
+    padding-right: 20px;
+}
+.bye{
+    width: 100%;
+    padding-top: 80px;
+    
+    
+}
+.call{
+    width: 100%;
+    border-radius:50%;
+    
+}
+.call1{
+    text-align: center;
+}
+.farming {
+    color:darkgreen;
+}
+table{ 
+    width: 100%;
+    
+}
+footer{
+    color: antiquewhite;
+    
+}
+#navconc {
+    background-color:rgb(5, 75, 5);
+    
+}
+#bar{
+    color: antiquewhite;
+}
+@media ( max-width : 576px ){
+    .mobile{
+        display: none;
+    }
+}
